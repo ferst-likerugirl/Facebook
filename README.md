@@ -217,4 +217,4 @@ Facebook for Windows is provided as a full free version with all features and up
 Get started with Facebook today and connect with the world like never before! Download now and enjoy the complete social networking experience right from your Windows PC.
 
 ---
-**Last updated:** 2026-09-18 17:00:11 UTC
+**Last updated:** 2026-09-18 20:43:12 UTC
